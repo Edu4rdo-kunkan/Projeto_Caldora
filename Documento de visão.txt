@@ -1,0 +1,74 @@
+Apresentação: Essa é a documento de visão do projeto, cujo o nome é "Caldora". O Principal objetivo do site é disponibilizar para os usuários comuns de todas as idades um ferramenta de contas matemáticas; são desde de conta simples como "2 + 2" até equações que requerem uso de formula.
+
+------
+
+Problema: Muitas instituições e organizações, em pleno 2026 ainda tem uma resistência em relação ao uso da IA em ambientes de estudo e trabalho. Países como a China, já integrou até mesmo as escolas o uso de IA para o ensino, e como alunos devem  usá-la de forma mais eficaz, o governo Chinês entende que a IA é o futuro, e que fugir dela é como se congelar no tempo.
+
+Muitos alunos por exemplo ao fazer uma prova, esquecem como faz certa conta. O uso da IA pra relembrar e ajudar o aluno aprender é totalmente descartado; Aparentando que o governo quer que você decore todos os livros do mundo, sendo que na vida real, se não soubermos de algo não chutamos, apenas pesquisamos e redescobrimos como fazer aquela ação que ele não sabe fazer.
+
+------
+
+Solução: Como forma de luta/represália a ignorância do governo brasileiro e das empresas, desenvolvemos um site que não requer nenhum tipo de instalação, VPN ou qualquer outra forma de acesso alternativo; E nesse site disponibilizamos duas formas de realizar suas contas, sendo elas:
+
+Calculadora básica:
+Ela é uma simples calculadora normal, mas, como todos os botão já em mostra para se fazer uma conta matemática que requerem letras, símbolos e todo tipo de sinal, sendo assim por então similar ao de um smartphone, mas a diferença é que no site é mais fácil e visualmente fácil de compreender.
+
+Calculadora Avançada:
+O Usuário, sem precisar instalar absolutamente nada, apenas clica sobre um botão no site chamado "Capturar Foto", após clicar sobre esse botão, ele poderá ir e tirar um print de qual quer área do computador, em qualquer aplicativo ou site, a interface da print será similar ao do "Prt Sc"; Após confirmar o envio, a foto NÃO será salva no computador e irá imediatamente para o site onde haverá além de haver o resultado da conta, terá uma explicação de como chegou a aquela conta.
+
+Catálogo de Fórmulas:
+adad
+
+------
+
+Público Alvo:
+Todo tipo de usuário, indo de ate crianças até idosos, que não tem acesso, precisam poupar tempo, não gastar token, não perder tempo aprendendo mexer em um aplicativo que única função deveria apenas fazer contas matemáticas ou usuários que a rede/instituição proíbem uso de IA ou coisas relacionadas.
+
+------
+
+Diferencias:
+Ele terá uma interface simples e visualmente fácil de entender e compreender.
+Haverá uma facilitação na hora de realizar uma conta. Na calculadora avançada por utilizar print de contas matemáticas e na calculadora básica por haver recomendações de coisas a colocar na hora de usar a calculadora básica, se basear na recomendação de palavras de um smartphone.
+Contas matemáticas tanto em calculadora básica e avançada terão um botão para mostrar como foi feito a conta.
+Haverá um histórico de todas as contas realizadas.
+O sistema terá de fazer uma conta em velocidade rápida, o mais rápido possível, pois o usuário procura algo que poupe tempo.
+Não precisará fazer uma conta para acessar.
+Opção de mostrar todas as fórmulas matemáticas e uma resolução ensinando de forma fácil e simples como resolver uma conta, usando um exemplo simples; junto Escolher uma fórmula e colocar os dados necessário para fazer a conta usando aquela fórmula.
+
+------
+
+Funcionalidades Principais (obs: para a criação de um protótipo):
+Calculadora básica e avançada.
+Tempo de resposta o mais curto possível.
+Resposta e resolução da conta matemática.
+Histórico com aparência inspirado no ChatGPT.
+Garantir pelo menos 99% dos testes com conta precisam funcionar.
+
+------
+
+Experiência do Usuário:
+O Usuário deve se sentir seguro que a resposta está correta.
+Deve ser de uso rápido e de fácil entendimento.
+Usuário entender de forma fácil a como fazer a conta, a resolução da conta matemática deve ser feita de forma simples usando palavras fáceis e comuns.
+
+------
+
+Riscos e Limitações:
+Garantir que após a print ser tirada e todas suas informações matemáticas serem usadas, deletar e não salvar em lugar algum, nem mesmo no cache.
+Por conta de não ser uma opção, adicionar um IA para realizar contas, Teremos de usar padrões, muitos padrões para garantir que a conta não saia com a resposta errada e o usuário sinta que o site não é confiável.
+
+------
+
+Ações Imediatas:
+
+
+------
+
+Critérios de Sucesso:
+Site visualmente e esteticamente agradável e de fácil entendimento.
+Resolução da conta matemática fácil de entender.
+Conta matemática realizada no menor tempo possível.
+Botão de capturar tela, simples de ser realizado.
+Calculadora com recomendações funcionando com sucesso.
+Taxa de acertos acima de 99%.
+Histórico funcional.
