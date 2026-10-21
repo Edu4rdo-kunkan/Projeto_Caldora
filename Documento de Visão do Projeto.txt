@@ -40,7 +40,7 @@ Opção de mostrar todas as fórmulas matemáticas e uma resolução ensinando d
 ------
 
 Funcionalidades Principais (obs: para a criação de um protótipo):
-Calculadora básica e avançada.
+Calculadora básica, avançada e catálogo de fórmulas.
 Tempo de resposta o mais curto possível.
 Resposta e resolução da conta matemática.
 Histórico com aparência inspirado no ChatGPT.
