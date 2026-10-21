@@ -17,7 +17,9 @@ Calculadora Avançada:
 O Usuário, sem precisar instalar absolutamente nada, apenas clica sobre um botão no site chamado "Capturar Foto", após clicar sobre esse botão, ele poderá ir e tirar um print de qual quer área do computador, em qualquer aplicativo ou site, a interface da print será similar ao do "Prt Sc"; Após confirmar o envio, a foto NÃO será salva no computador e irá imediatamente para o site onde haverá além de haver o resultado da conta, terá uma explicação de como chegou a aquela conta.
 
 Catálogo de Fórmulas:
-adad
+O Usuário terá a opção de visualizar fórmulas. Ao clicar ele verá um catálogo extenso e longo, contendo todo tipo de fórmula. E Dentro da fórmula haverá uma explicação simples e com palavras fáceis para um fácil entendimento, nessa explicação deve ter exemplos práticos como fórmula de Bhaskara já resolvido por exemplo usando números simples.
+
+Se o usuário quiser, ele pode escolher a fórmula que deseja e colocar os dados na aba da fórmula e a conta será elaborada com explicação também.
 
 ------
 
@@ -59,11 +61,6 @@ Por conta de não ser uma opção, adicionar um IA para realizar contas, Teremos
 
 ------
 
-Ações Imediatas:
-
-
-------
-
 Critérios de Sucesso:
 Site visualmente e esteticamente agradável e de fácil entendimento.
 Resolução da conta matemática fácil de entender.
@@ -72,3 +69,11 @@ Botão de capturar tela, simples de ser realizado.
 Calculadora com recomendações funcionando com sucesso.
 Taxa de acertos acima de 99%.
 Histórico funcional.
+
+------
+
+Ideias Novas:
+
+
+
+
