@@ -1,0 +1,73 @@
+Persona: "Lucas", o estudante que precisa relembrar a conta
+
+------
+
+Identificação: Lucas Almeida, 16 anos, estudante do 2º ano do ensino médio, morador de uma cidade do interior de São Paulo.
+
+------
+
+Contexto de vida: Lucas mora com os pais e a irmã mais nova. Estuda de manhã e, à noite, faz as tarefas de matemática no quarto, geralmente com o celular ou um notebook emprestado. Tem internet em casa, mas a escola bloqueia a maioria dos sites de IA e de ferramentas de estudo pela rede Wi-Fi. Sabe usar celular e computador com facilidade, mas não é um usuário avançado.
+
+------
+
+Um dia típico: Durante a lição, Lucas trava em uma equação de segundo grau e não lembra a fórmula de Bhaskara nem a ordem das operações. Antes de chegar ao site, tenta a calculadora do celular, que mostra só o resultado, e pesquisa no Google, onde encontra textos longos e confusos. Às vezes desiste e deixa para o dia seguinte, com a prova se aproximando.
+
+------
+
+Objetivo: Naquele momento, Lucas quer resolver a conta corretamente e entender como chegou ao resultado, para conseguir fazer a próxima sozinho na prova.
+
+------
+
+Dores e frustrações:
+A calculadora comum dá a resposta, mas não mostra o caminho.
+A pesquisa no Google leva a sites cheios de anúncios e explicações difíceis.
+Lucas tem medo de errar e de não entender a matéria a tempo da prova.
+Se não resolver, perde a tarefa, tira nota baixa e se sente incapaz.
+
+------
+
+Como resolve hoje: Usa a calculadora do celular, pesquisa no Google e, quando consegue, pede ajuda ao irmão mais velho ou a um colega pelo WhatsApp. Essas opções não bastam porque a calculadora não explica, o Google exige filtrar muito conteúdo e o irmão nem sempre está disponível.
+
+------
+
+Como se sente:
+Antes: pressa e insegurança, principalmente quando a prova está perto.
+Depois: alívio e confiança por ter entendido a conta.
+Necessidade principal: prática, porque precisa resolver a tarefa e aprender o método. Também há uma parte emocional, ligada à confiança em si mesmo.
+
+------
+
+Expectativas do site:
+Resposta rápida, em poucos segundos.
+Explicação passo a passo em linguagem simples, sem termos difíceis.
+Interface limpa, com botões claros, sem precisar aprender a usar o site.
+Acesso sem cadastro e sem instalação.
+Histórico para revisar as contas feitas.
+
+------
+
+Critérios de sucesso: Lucas considera que o site funcionou quando consegue resolver a conta sem ajuda de ninguém, entende cada etapa e percebe que sabe refazer o exercício sozinho. Também considera positivo encontrar o resultado em menos de um minuto.
+
+------
+
+O que o faria desistir:
+Site lento, que demora para mostrar o resultado.
+Muitos anúncios ou pop-ups.
+Exigência de cadastro ou de instalação de aplicativo.
+Explicação que mostra só o resultado, sem o passo a passo.
+Site que não abre na rede da escola. Nesse caso, Lucas tenta pelo celular, usando dados móveis.
+
+------
+
+Citação: "Eu não preciso que alguém faça a conta por mim, só preciso entender onde eu errei."
+
+------
+
+O que o site precisa ter, a partir deste persona:
+Calculadora básica para contas simples, com sugestões de símbolos e funções.
+Calculadora avançada por captura de área da tela, com autorização do navegador a cada uso e sem salvar a imagem.
+Passo a passo em linguagem simples para toda conta.
+Catálogo de fórmulas com exemplos resolvidos, como Bhaskara com números simples.
+Histórico de contas.
+Resposta rápida, sem cadastro e sem instalação.
+Layout limpo, pensado para celular e computador.
