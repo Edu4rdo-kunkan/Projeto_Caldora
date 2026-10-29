@@ -11,10 +11,6 @@ Proibição de Cópia Completa: Não é permitida a cópia integral, redistribui
 
 Obrigação de Créditos: Qualquer reutilização de partes do código ou da interface deve obrigatoriamente incluir os créditos visíveis ao projeto original Caldora e aos seus autores iniciais.
 
-## Sobre o Projeto
-
-O Caldora resolve contas desde operações aritméticas simples até equações avançadas. Os cálculos e o reconhecimento de imagem funcionam inteiramente no navegador do usuário, para garantir total privacidade e velocidade instantânea.
-
 ## Principais Funcionalidades
 
 #### Calculadora Básica:
